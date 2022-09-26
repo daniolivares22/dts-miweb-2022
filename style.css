@@ -1,0 +1,9 @@
+body {background-color: grey;}
+
+#contenedor { width: 900px; 
+	padding: 20px 0px;
+	margin: 0px; 
+	background: whitesmoke; 
+	margin: 0 auto; 
+	float: center;
+	}
